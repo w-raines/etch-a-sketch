@@ -28,3 +28,11 @@ button {
 p {
     font-size: 1.5rem;
 }
+
+.modes-container {
+    font-size: 1.5rem;
+}
+
+label {
+    display: inline-block;
+}
